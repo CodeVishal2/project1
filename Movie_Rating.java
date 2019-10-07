@@ -2,6 +2,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+// This is java project for movie rating project
+
 public class Movie_Rating {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
