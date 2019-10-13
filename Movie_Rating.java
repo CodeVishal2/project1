@@ -2,6 +2,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+//Practice fork & pull request
+
 // This is java project for movie rating project
 
 public class Movie_Rating {
@@ -36,6 +38,7 @@ public class Movie_Rating {
 
     }
 }
+// Class Movie 
 class Movie{
     public String title;
     public int rating;
