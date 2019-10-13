@@ -12,4 +12,15 @@ public class HelloExam{
 	public static void main(int number){
 		System.out.println("Hello Exam 4")
 	}
+	public static void main(int number){
+		System.out.println("Hello Exam 4")
+	}
+	public static void main(int number){
+		System.out.println("Hello Exam 4")
+	}
+	public static void main(int number){
+		System.out.println("Hello Exam 4")
+	}
+	
+	
 }
